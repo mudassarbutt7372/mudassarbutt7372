@@ -37,7 +37,8 @@ Currently, I work as a remote software engineer, crafting robust solutions from 
 - Advanced AI-assisted programming and codebase refactoring.
 - Expanding knowledge in diverse architectural patterns.
 
-### 📫 Let's Connect!
-- **Portfolio Website:** [mudassar.tapinns.com](https://mudassar.tapinns.com)
-- **YouTube Channel:** [@ProgrammingWithMudassar7372](https://www.youtube.com/@ProgrammingWithMudassar7372)
-- **Email:** mudassarbutt7372@gmail.com
+### 📫 Let's Connect & Resume
+- **📄 Resume / CV:** [View My Resume](https://drive.google.com/file/d/1M0xNkqasb0ifmH__qRvISgGGHtvNENFP/view?usp=sharing)
+- **🌐 Portfolio Website:** [mudassar.tapinns.com](https://mudassar.tapinns.com)
+- **📺 YouTube Channel:** [@ProgrammingWithMudassar7372](https://www.youtube.com/@ProgrammingWithMudassar7372)
+- **📧 Email:** mudassarbutt7372@gmail.com
